@@ -14,9 +14,9 @@ body {
 h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
-    font-size: 14px;
+    font-size: 26px;
     text-align: center;
-    color: white;
+    color: whitesmoke;
 }
 
 .clock {
@@ -43,7 +43,7 @@ h2 {
 
 .clock .text {
     height: 30px;
-    font-size: 10px;
+    font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 2px;
     background: darkblue;
